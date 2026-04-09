@@ -1,0 +1,24 @@
+Se necesita un sistema informático para llevar el control de las elecciones a presidente de la republica.
+Cada plancha esta conformada por 3 integrantes: presidente, 1er vicepresidente y 2do vicepresidente.
+
+Requerimiento 1
+================
+Como secretario de procesos electorales, quiero poder registrar la plancha electoral para que pueda participar en las elecciones.
+
+Criterios de aceptación:
+1. Los candidatos deben ser mayor de 18 años.
+2. Un candidato debe ser de genero femenino.
+3. No deben tener condenas judiciales.
+
+
+
+
+
+
+
+
+
+
+
+
+
