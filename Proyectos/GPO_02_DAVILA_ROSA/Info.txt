@@ -1,0 +1,18 @@
+Ha presentado entregable, no lo solicitado.
+
+
+Desde el punto de vista estadístico y de análisis de datos, la pregunta de la imagen representa un Análisis Bivariado de Comparación de Grupos (o Análisis de Asociación).A continuación se detallan los tipos específicos de análisis estadísticos según la naturaleza de los datos:
+
+1. Clasificación General
+
+Análisis Inferencial: Busca determinar si las diferencias observadas entre los departamentos son estadísticamente significativas y no debidas al azar.Análisis Bivariado: Relaciona dos variables: una variable independiente o predictora (Departamento) y una variable dependiente o de respuesta (Gravedad del accidente).
+
+
+
+
+2. Pruebas Estadísticas Específicas
+
+
+Dependiendo de cómo se midan las variables, se aplica una de las siguientes pruebas:Si la gravedad es Cualitativa (ej. Leve, Grave, Fatal):Prueba de Chi-cuadrado de Homogeneidad / Independencia: Compara si la distribución de la gravedad de los accidentes es igual o diferente a través de los distintos departamentos.Si la gravedad se mide de forma Cuantitativa (ej. un índice numérico de gravedad):ANOVA (Análisis de Varianza): Compara los promedios de gravedad entre tres o más departamentos (asumiendo normalidad).Prueba de Kruskal-Wallis: Alternativa no paramétrica al ANOVA si los datos numéricos no siguen una distribución normal.Si tienes los datos y deseas avanzar, dime: ¿la variable "gravedad" está registrada como categorías (texto) o como un puntaje numérico? Así podré indicarte el código o procedimiento exacto para resolverlo.
+
+
