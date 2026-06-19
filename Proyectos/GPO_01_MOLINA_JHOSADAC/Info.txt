@@ -1,0 +1,19 @@
+Tema: Anemia infantil 2019 en el Perú
+La base de datos se sacó de microdatos. ¿Fuente? 
+
+Adjunto link: 
+PERï¿½ Instituto Nacional de Estadï¿½stica e Informï¿½tica https://share.google/vp5wrvm66YLgL0ZA3
+
+https://proyectos.inei.gob.pe/microdatos/index.htm
+
+GUIA PARA OBTENER LO DATOS
+
+En "Consultas por encuesta" y seleccionamos "Encuesta demografica y de la salud familiar (endes)" y "Periodo unico". Y nos ubicamos en el módulo 74.
+
+La base de datos se presenta en archivos .dbf y SPSS, pero se transformó a excel.
+
+Las variables se encuentran en los "diccionarios individuales".
+
+La variable más importante es "nivel de anemia" cuyo código es HC57.
+
+Cualquier corrección o información adicional le estaremos comunicando por este medio.

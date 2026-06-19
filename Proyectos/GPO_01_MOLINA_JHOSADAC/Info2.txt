@@ -1,0 +1,21 @@
+Pregunta general del proyecto
+
+¿Cuáles son los patrones y factores asociados a la gravedad de los accidentes laborales reportados en el Perú entre 2012 y 2024?
+
+Preguntas:
+
+¿Cómo ha evolucionado la frecuencia de accidentes laborales reportados en el Perú entre 2012 y 2024? 
+ 
+¿Qué actividades económicas concentran la mayor cantidad de accidentes laborales y cómo ha variado su participación a lo largo del tiempo? 
+
+¿Existen diferencias en la frecuencia y gravedad de los accidentes laborales entre las regiones del Perú?  
+
+¿Cuáles son las combinaciones más frecuentes entre forma del accidente, agente causante y naturaleza de la lesión?  
+
+¿Qué factores se asocian significativamente con la ocurrencia de accidentes incapacitantes?  
+   
+Cómo obtener la fuente de datos
+
+1. Haga clic allí y escriba exactamente: https://www.datosabiertos.gob.pe/dataset/notificaciones-de-accidentes-de-trabajo-no-mortales-fuente-sistema-inform%C3%A1tico-de-1
+
+2. Luego hacer click enDataset__Noti_AT_No_Mort_SAT.csv
