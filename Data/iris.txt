@@ -1,0 +1,21 @@
+El dataset Iris es uno de los conjuntos de datos más famosos e históricos en estadística y aprendizaje automático. Fue introducido en 1936 por el estadístico y biólogo británico Ronald A. Fisher en su artículo "The Use of Multiple Measurements in Taxonomic Problems", publicado en la revista Annals of Eugenics (Fisher, 1936).
+
+¿De qué trata?
+
+Contiene mediciones morfológicas de 150 flores de iris, distribuidas en tres especies distintas, 50 flores por especie:
+
+    - Iris setosa
+    - Iris versicolor
+    - Iris virginica
+
+Para cada flor se registraron 4 mediciones en centímetros:
+
+Columna       Descripción
+------------------------------------------------------
+sepal_length  Largo del sépalo
+sepal_width   Ancho del sépalo
+petal_length  Largo del pétalo
+petal_width   Ancho del pétalo
+species       Especie de la flor (variable objetivo)
+-------------------------------------------------------
+

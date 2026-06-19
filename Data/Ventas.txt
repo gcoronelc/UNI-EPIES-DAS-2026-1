@@ -1,0 +1,15 @@
+Columna       Descripción
+----------------------------------------------------
+id_venta      Identificador único de la venta
+fecha         Fecha en formato YYYY-MM-DD (todo el 2024)
+producto      25 productos tecnológicos distintos
+categoria     9 categorías: Computadoras, Periféricos, Monitores, etc.
+cantidad      Entre 1 y 8 unidades por venta
+precio_unit   Precio unitario en soles
+descuento_pct Porcentaje de descuento: 0%, 5%, 10% o 15%
+descuento_s   Monto del descuento en soles
+total         Monto final de la venta
+vendedor      8 vendedores distintos
+region        8 regiones (Lima Norte/Sur/Este/Centro, Arequipa, Cusco, Trujillo, Piura)
+canal         Tienda física, E-commerce o Corporativo
+metodo_pago   Efectivo, Tarjeta débito/crédito, Transferencia, Cuotas
